@@ -1,0 +1,6 @@
+User 20
+496 ('It's a Wonderful Life (1946)', '01-Jan-1946') 3.719
+69 ('Forrest Gump (1994)', '01-Jan-1994') 3.523
+15 ('Mr. Holland's Opus (1995)', '29-Jan-1996') 3.495
+22 ('Braveheart (1995)', '16-Feb-1996') 3.484
+181 ('Return of the Jedi (1983)', '14-Mar-1997') 3.459
